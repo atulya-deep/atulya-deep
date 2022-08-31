@@ -1,3 +1,4 @@
+# Welcome Guys ❤️
 # 💫 About Me:
 🔭 I’m currently exploring the field of Artificial Intelligence.<br><br>💻 I’m presently working on Human Activity Recognition(HAR)<br><br>📫 How to reach me atulya.deep@gmail.com<br><br>💾 Other areas of expertise include Frontend, Computer Vision, and MySQL
 
@@ -11,12 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=atulya-deep&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atulya-deep&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atulya-deep&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atulya-deep&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=atulya-deep&icon=2&color=7)](https://visitcount.itsvg.in)

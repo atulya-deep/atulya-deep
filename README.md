@@ -1,5 +1,7 @@
 # Welcome Guys ❤️
+
 # 💫 About Me:
+<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 🔭 I’m currently exploring the field of Artificial Intelligence.<br><br>💻 I’m presently working on Human Activity Recognition(HAR)<br><br>📫 How to reach me atulya.deep@gmail.com<br><br>💾 Other areas of expertise include Frontend, Computer Vision, and MySQL
 
 
